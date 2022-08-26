@@ -127,5 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-FashionMNIST/raw/*
-data/FashionMNIST/*
